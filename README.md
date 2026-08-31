@@ -15,8 +15,8 @@ Made this because I wanted a case that actually fit my setup — clean fit, easy
 |------|----------|------|------|
 | PLA Filament (100g used) | 100 g | $1.50 | [Amazon](https://www.amazon.com/AmazonBasics-Printer-Filament-1-75mm-Spool/dp/B07X1YH7C1) |
 | 3D Printing Service (if no printer) | 1 print | $2.50 | — |
-| Raspberry Pi 4 Model B (4GB) | 1 | $55.00 | [Amazon](https://www.amazon.com/Raspberry-Pi-RPI4-MODBP-4GB-Model-4GB/dp/B09TTNF8BT) |
-
+| Raspberry Pi 4 Model B (4GB) | 1 | $82.79 | [Amazon](https://www.amazon.com/Raspberry-Pi-RPI4-MODBP-4GB-Model-4GB/dp/B09TTNF8BT) |
+**Total cost : $86.79**
 **Total Cost (excluding Raspberry Pi): $4.00**
 
 **Notes:**
