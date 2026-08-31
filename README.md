@@ -1,2 +1,26 @@
-# Raspberry-Pi-4-Model-B-v1-Case
-I designed a custom 3D-printable Raspberry pi case in fusion 360
+# Raspberry Pi Case (Fusion 360)
+
+A custom 3D-printable case for the Raspberry Pi, designed in Fusion 360.
+link of printable :https://www.printables.com/model/1826038-raspberry-pi-4-model-b-v1-case
+## About
+Made this because I wanted a case that actually fit my setup — clean fit, easy access to ports, and simple enough to print without supports.
+
+## Files
+- `pi_case.f3d` — Fusion 360 source file
+- `pi_case.stl` — ready-to-print STL
+- `pi_case_lid.stl` — lid/cover
+
+## Print Settings
+- Layer height: 0.2mm
+- Infill: 15-20%
+- Supports: not needed
+- Material: PLA (recommended)
+
+## Compatibility
+Fits Raspberry Pi (update with your exact model, e.g. 4B).
+
+## Notes
+Feel free to remix or modify in Fusion 360 — GPIO, camera, and port cutouts are all editable.
+
+## License
+Creative Commons (4.0 International License)
