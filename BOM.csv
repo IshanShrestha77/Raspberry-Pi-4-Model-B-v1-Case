@@ -1,0 +1,7 @@
+﻿Item,Quantity,Unit Cost,Total Cost,Link
+PLA Filament (100g used),100 g,$1.50,$1.50,https://www.amazon.com/AmazonBasics-Printer-Filament-1-75mm-Spool/dp/B07X1YH7C1
+Raspberry Pi (existing),1,$55.00,$55.00,https://www.amazon.com/Raspberry-Pi-RPI4-MODBP-4GB-Model-4GB/dp/B09TTNF8BT
+3D Printing Service (if no printer),1 print,$2.50,$2.50,
+Total Cost,,,$59.00,
+Total Cost with out raspberry ,,,$4.00,
+Note: Print cost estimate ($2-3) applies if using a third-party print service instead of a personal printer.,,,,
