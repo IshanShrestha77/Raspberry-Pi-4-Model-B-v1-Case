@@ -9,6 +9,18 @@ time lapse yt link :- https://youtu.be/42RzXvIpx24
 ## About
 Made this because I wanted a case that actually fit my setup — clean fit, easy access to ports, and simple enough to print without supports.
 
+# Bill of Materials — Raspberry Pi Case
+
+| Item | Quantity | Cost | Link |
+|------|----------|------|------|
+| PLA Filament (100g used, 1kg spool) | 100g | ~$1.50 | [Amazon Basics PLA 1kg](https://www.amazon.com/AmazonBasics-Printer-Filament-1-75mm-Spool/dp/B07X1YH7C1) |
+| Raspberry Pi (existing) | 1 | — | — |
+| **Total Print Cost** | — | **~$1.50** | — |
+
+**Notes:**
+- Cost estimated from a 1kg spool priced ~$15-20
+- No supports required, minimal material waste
+
 ## Files
 - `pi_case.f3d` — Fusion 360 source file
 - `pi_case.stl` — ready-to-print STL
