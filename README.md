@@ -1,5 +1,5 @@
 # Raspberry Pi Case (Fusion 360)
- ![Image Alt](image_url)
+ ![Image Alt](https://github.com/IshanShrestha77/Raspberry-Pi-4-Model-B-v1-Case/blob/514f0cba1637228f56aa124c429b539ec432849b/Adobe%20Express%202026-08-28%2021.49.33.png)
 link of printable :https://www.printables.com/model/1826038-raspberry-pi-4-model-b-v1-case
 time lapse yt link :- https://youtu.be/42RzXvIpx24
 ## About
