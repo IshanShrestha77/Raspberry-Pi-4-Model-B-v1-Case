@@ -1,5 +1,5 @@
 # Raspberry Pi Case (Fusion 360)
- ![Image Alt](https://github.com/IshanShrestha77/Raspberry-Pi-4-Model-B-v1-Case/blob/514f0cba1637228f56aa124c429b539ec432849b/Adobe%20Express%202026-08-28%2021.49.33.png)
+ ![Image Alt](https://github.com/IshanShrestha77/Raspberry-Pi-4-Model-B-v1-Case/blob/3703cbf79e2e9670c929984065a7e41f5c7276a6/CASE.png)
 
  
 link of printable :https://www.printables.com/model/1826038-raspberry-pi-4-model-b-v1-case
