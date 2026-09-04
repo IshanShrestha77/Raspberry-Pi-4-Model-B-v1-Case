@@ -2,7 +2,7 @@
  ![Image Alt](https://github.com/IshanShrestha77/Raspberry-Pi-4-Model-B-v1-Case/blob/3703cbf79e2e9670c929984065a7e41f5c7276a6/CASE.png)
 
  
-link of printable :https://www.printables.com/model/1826038-raspberry-pi-4-model-b-v1-case
+
 
 
 time lapse yt link :- https://youtu.be/42RzXvIpx24
